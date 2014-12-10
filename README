@@ -1,0 +1,7 @@
+Guide:
+1. Clone this project
+2. Create new application at https://www.linkedin.com/secure/developer?newapp=
+3. copy Secret Key and API Key from application that you created using the the link given in 2nd step.
+4. Paste these app key and secret key into index.php file.
+5. Run index.php
+
